@@ -1,0 +1,36 @@
+!
+name: "GL OjEdge"
+time: 1619201998
+author: "GL513"
+@
+bubbleCorner: 18
+bubbleCornerMerged, lightStatusBar: 0
+bubbleOutline, bubbleUnreadShadow: 1
+bubbleOutlineSize: 5
+imageCorner, parentTheme: 2
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, avatarInactive, avatarInactive_big, background_textLight, badgeMutedText, bubbleOut_messageAuthor, bubbleOut_waveformInactive, chatKeyboard, chatKeyboardButton, chatListAction, chatListMute, circleButtonChat, circleButtonNewChannelIcon, circleButtonNewChat, controlInactive, fileAttach, fillingPressed, headerBarCallMuted, headerTabInactiveText, introSection, messageAuthor, nameInactive, seekEmpty, shareSeparator, sliderInactive, snackbarUpdate, textLinkPressHighlight, textSelectionHighlight, togglerActiveBackground, togglerInactive, togglerPositiveBackground, waveformInactive: #505050
+attachText, avatar_content, bubbleIn_background, bubbleOut_background, chatBackground, circleButtonChatIcon, circleButtonNegativeIcon, circleButtonNewChatIcon, circleButtonNewGroupIcon, circleButtonNewSecretIcon, circleButtonOverlayIcon, circleButtonPositiveIcon, circleButtonRegularIcon, circleButtonThemeIcon, filling, fillingPositive, headerBackground, promoContent, themeNightBlack, themeWhiteBlack: #000
+avatarArchive, avatarGreen, avatarGreen_big, avatarSavedMessages, avatarSavedMessages_big, bubbleOut_ticksRead, chatListVerify, checkActive, circleButtonNewSecret, circleButtonPositive, confettiGreen, fileGreen, headerBarCallActive, iconActive, iconPositive, inputPositive, ledGreen, messageSwipeBackground, nameGreen, notificationSecure, online, promo, themeGreen, ticks, ticksRead: #0F0
+avatarArchivePinned, avatarRed, avatarRed_big, badgeFailed, circleButtonNegative, confettiRed, fileRed, fillingNegative, headerRemoveBackgroundHighlight, iconNegative, inputNegative, ledRed, messageNegativeLine, nameRed, textNegative, themeRed, togglerNegative: #F00
+avatarBlue, avatarBlue_big, circleButtonNewChannel, confettiBlue, ledBlue, messageSelection, nameBlue: #00F
+avatarCyan, avatarCyan_big, bubble_unread, bubble_unreadText, bubbleIn_textLink, bubbleOut_textLink, confettiCyan, headerLightBackground, iv_textLink, iv_textMarkedLink, ledCyan, nameCyan, notificationLink, passcode, passcodeIcon, passcodeText, textLink, themeCyan, unread, unreadText: #0FF
+avatarOrange, avatarOrange_big, background_text, bubble_date, bubble_dateText, bubbleIn_outline, bubbleIn_progress, bubbleIn_separator, bubbleOut_progress, bubbleOut_waveformActive, chatSeparator, controlActive, drawer, headerTabActiveText, headerText, inlineIcon, inlineOutline, inputActive, introSectionActive, iv_header, iv_textReference, ivHeader, ledOrange, nameOrange, notificationPlayer, overlayFilling, playerButton, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, sectionedScrollBar, sectionedScrollBarActive, seekDone, separator, sliderActive, snackbarUpdateText, statusBarContent, statusBarLegacy, statusBarLegacyContent, textNeutral, textPlaceholder, themeOrange, togglerActive, waveformActive: #FF9600
+avatarPink, avatarPink_big, ledPink, namePink, themePink: #F0F
+avatarViolet, avatarViolet_big, confettiPurple, ledPurple, nameViolet: #3200FF
+avatarYellow, avatarYellow_big, circleButtonNewGroup, confettiYellow, fileYellow, ledYellow, nameYellow: #FF0
+background_icon, badge, bubble_chatSeparator, bubble_messageCheckOutline, bubbleIn_time, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_separator, bubbleOut_time, chatListIcon, chatSendButton, circleButtonOverlay, circleButtonRegular, circleButtonTheme, file, headerButtonIcon, headerIcon, headerTabActive, icon, iconLight, inlineText, iv_separator, ivHeaderIcon, messageVerticalLine, notification, playerButtonActive, textSearchQueryHighlight, togglerPositive: #FF6400
+badgeMuted: #909090
+bubbleIn_pressed, bubbleIn_textLinkPressHighlight, bubbleOut_pressed, iv_text, iv_textCodeBackgroundPressed, ledWhite, seekReady, snackbarUpdateAction, togglerPositiveContent: #FFF
+bubbleOut_messageAuthorPsa, bubbleOut_ticks, messageAuthorPsa, textSecure: #050
+bubbleOut_outline, togglerInactiveBackground: #323232
+controlContent: #F60
+headerRemoveBackground, togglerNegativeBackground: #F505
+inlineContentActive: #B8B8B8
+iv_pageSubtitle, iv_pageTitle, iv_textLinkPressHighlight: #005050
+iv_textMarkedBackground: #505000
+placeholder: #FFFFFF32
+playerCoverPlaceholder, statusBar: #0000
+previewBackground: #00000032
+themeNightBlue: #005
+transparentEditor: #00000050
