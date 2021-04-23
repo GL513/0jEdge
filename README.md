@@ -1,3 +1,4 @@
+![0jEdge](https://user-images.githubusercontent.com/83085846/115928008-69d8f880-a453-11eb-949a-afbf558347c6.png)
 # 0jEdge
 ### Custom Orange and Black themes for ALOT of UI/GUI/UX
 * Just so you know, I'm currently working on communications to report issues, file branches, etc.
